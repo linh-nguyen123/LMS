@@ -1,0 +1,14 @@
+release/authsystem.o
+release/book.o
+release/borrowrecord.o
+release/library.o
+release/main.o
+release/mainwindow.o
+release/main.o
+release/mainwindow.o
+release/authsystem.o
+release/user.o
+release/book.o
+release/borrowrecord.o
+release/library.o
+release/user.o

@@ -1,0 +1,48 @@
+Angels and Demons|Dan Brown|2000|16.00|978-0671027360|30|30|https://covers.openlibrary.org/b/isbn/9780671027360-L.jpg
+Animal Farm|George Orwell|1945|10.00|978-0451526342|25|25|https://covers.openlibrary.org/b/isbn/9780451526342-L.jpg
+Atomic Habits|James Clear|2018|16.00|978-0735211292|40|40|https://covers.openlibrary.org/b/isbn/9780735211292-L.jpg
+Clean Code|Robert C. Martin|2008|42.00|978-0132350884|15|15|https://covers.openlibrary.org/b/isbn/9780132350884-L.jpg
+Code Complete|Steve McConnell|2004|42.00|978-0735619678|7|7|https://covers.openlibrary.org/b/isbn/9780735619678-L.jpg
+Design Patterns|Erich Gamma|1994|49.99|978-0201633610|8|8|https://covers.openlibrary.org/b/isbn/9780201633610-L.jpg
+Don Quixote|Miguel de Cervantes|1605|15.00|978-0060934347|12|12|https://covers.openlibrary.org/b/isbn/9780060934347-L.jpg
+Dracula|Bram Stoker|1897|7.50|978-0486411095|10|10|https://covers.openlibrary.org/b/isbn/9780486411095-L.jpg
+Dune|Frank Herbert|1965|18.00|978-0441172719|15|15|https://covers.openlibrary.org/b/isbn/9780441172719-L.jpg
+Educated|Tara Westover|2018|19.00|978-0399590504|30|30|https://covers.openlibrary.org/b/isbn/9780399590504-L.jpg
+Effective Java|Joshua Bloch|2017|40.00|978-0134685991|14|14|https://covers.openlibrary.org/b/isbn/9780134685991-L.jpg
+Elon Musk|Ashlee Vance|2015|19.00|978-0062301239|20|20|https://covers.openlibrary.org/b/isbn/9780062301239-L.jpg
+Frankenstein|Mary Shelley|1818|7.00|978-0486282114|8|8|https://covers.openlibrary.org/b/isbn/9780486282114-L.jpg
+Gone Girl|Gillian Flynn|2012|11.50|978-0307588371|18|18|https://covers.openlibrary.org/b/isbn/9780307588371-L.jpg
+Good to Great|Jim Collins|2001|20.00|978-0066620992|14|14|https://covers.openlibrary.org/b/isbn/9780066620992-L.jpg
+Harry Potter and the Chamber of Secrets|J.K. Rowling|1998|20.00|978-0439064873|45|45|https://covers.openlibrary.org/b/isbn/9780439064873-L.jpg
+Harry Potter and the Sorcerers Stone|J.K. Rowling|1997|20.00|978-0590353427|50|50|https://covers.openlibrary.org/b/isbn/9780590353427-L.jpg
+Head First Java|Kathy Sierra|2005|35.50|978-0596009205|25|25|https://covers.openlibrary.org/b/isbn/9780596009205-L.jpg
+How to Win Friends and Influence People|Dale Carnegie|1936|12.00|978-0671027032|28|28|https://covers.openlibrary.org/b/isbn/9780671027032-L.jpg
+Introduction to Algorithms|Thomas H. Cormen|2009|80.00|978-0262033848|15|15|https://covers.openlibrary.org/b/isbn/9780262033848-L.jpg
+Life of Pi|Yann Martel|2001|11.00|978-0156027328|14|14|https://covers.openlibrary.org/b/isbn/9780156027328-L.jpg
+Little Women|Louisa May Alcott|1868|8.00|978-0147514011|15|15|https://covers.openlibrary.org/b/isbn/9780147514011-L.jpg
+Pride and Prejudice|Jane Austen|1813|9.00|978-1503290563|15|15|https://covers.openlibrary.org/b/isbn/9781503290563-L.jpg
+Python Crash Course|Eric Matthes|2019|29.99|978-1593279288|29|29|https://covers.openlibrary.org/b/isbn/9781593279288-L.jpg
+Refactoring|Martin Fowler|2018|50.00|978-0134757599|9|9|https://covers.openlibrary.org/b/isbn/9780134757599-L.jpg
+Rich Dad Poor Dad|Robert T. Kiyosaki|1997|14.00|978-1612680194|35|35|https://covers.openlibrary.org/b/isbn/9781612680194-L.jpg
+Sapiens: A Brief History of Humankind|Yuval Noah Harari|2011|22.00|978-0062316097|18|18|https://covers.openlibrary.org/b/isbn/9780062316097-L.jpg
+Steve Jobs|Walter Isaacson|2011|20.00|978-1451648539|22|22|https://covers.openlibrary.org/b/isbn/9781451648539-L.jpg
+The 7 Habits of Highly Effective People|Stephen R. Covey|1989|15.00|978-0743269513|22|22|https://covers.openlibrary.org/b/isbn/9780743269513-L.jpg
+The Alchemist|Paulo Coelho|1988|16.00|978-0062315007|40|40|https://covers.openlibrary.org/b/isbn/9780062315007-L.jpg
+The Alchemist Extended|Paulo Coelho|2006|18.00|978-0061807541|25|25|https://covers.openlibrary.org/b/isbn/9780061807541-L.jpg
+The C++ Programming Language|Bjarne Stroustrup|2013|59.99|978-0321563842|13|13|https://covers.openlibrary.org/b/isbn/9780321563842-L.jpg
+The Catcher in the Rye|J.D. Salinger|1951|13.00|978-0316769488|20|20|https://covers.openlibrary.org/b/isbn/9780316769488-L.jpg
+The Da Vinci Code|Dan Brown|2003|15.00|978-0307474278|35|35|https://covers.openlibrary.org/b/isbn/9780307474278-L.jpg
+The Girl on the Train|Paula Hawkins|2015|16.00|978-1594633669|32|32|https://covers.openlibrary.org/b/isbn/9781594633669-L.jpg
+The Godfather|Mario Puzo|1969|13.00|978-0451205766|12|12|https://covers.openlibrary.org/b/isbn/9780451205766-L.jpg
+The Great Gatsby|F. Scott Fitzgerald|1925|11.00|978-0743273565|18|18|https://covers.openlibrary.org/b/isbn/9780743273565-L.jpg
+The Hobbit|J.R.R. Tolkien|1937|15.00|978-0547928227|30|30|https://covers.openlibrary.org/b/isbn/9780547928227-L.jpg
+The Hunger Games|Suzanne Collins|2008|12.00|978-0439023481|25|25|https://covers.openlibrary.org/b/isbn/9780439023481-L.jpg
+The Kite Runner|Khaled Hosseini|2003|12.50|978-1594631931|16|16|https://covers.openlibrary.org/b/isbn/9781594631931-L.jpg
+The Lean Startup|Eric Ries|2011|19.00|978-0307887894|15|15|https://covers.openlibrary.org/b/isbn/9780307887894-L.jpg
+The Lord of the Rings|J.R.R. Tolkien|1954|30.00|978-0618640157|20|20|https://covers.openlibrary.org/b/isbn/9780618640157-L.jpg
+The Midnight Library|Matt Haig|2020|18.99|978-0525559474|28|28|https://covers.openlibrary.org/b/isbn/9780525559474-L.jpg
+The Pragmatic Programmer|Andrew Hunt|1999|39.95|978-0201616224|18|18|https://covers.openlibrary.org/b/isbn/9780201616224-L.jpg
+Think and Grow Rich|Napoleon Hill|1937|10.00|978-1585424337|25|25|https://covers.openlibrary.org/b/isbn/9781585424337-L.jpg
+Thinking Fast and Slow|Daniel Kahneman|2011|18.00|978-0374533557|20|20|https://covers.openlibrary.org/b/isbn/9780374533557-L.jpg
+To Kill a Mockingbird|Harper Lee|1960|14.00|978-0061120084|30|30|https://covers.openlibrary.org/b/isbn/9780061120084-L.jpg
+Zero to One|Peter Thiel|2014|17.00|978-0804139298|12|12|https://covers.openlibrary.org/b/isbn/9780804139298-L.jpg
