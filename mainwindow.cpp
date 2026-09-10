@@ -473,45 +473,8 @@ void MainWindow::setupAdminPage() {
         );
     connect(btnSort, &QPushButton::clicked, this, &MainWindow::onSortClicked);
 
-    QLabel *lblStudentInfo = new QLabel(" 24AD11004 | Nguyen Van Linh");
-    lblStudentInfo->setStyleSheet(
-        "color: #A3BE8C; "
-        "font-weight: bold; "
-        "font-size: 15px; "
-        "padding: 10px 20px; "
-        "background-color: rgba(67, 76, 94, 0.7); "
-        "border-radius: 15px; "
-        );
-    lblStudentInfo->setAlignment(Qt::AlignCenter);
-    lblStudentInfo->setMaximumWidth(350);
-    QLabel *lblStudentInfo1 = new QLabel(" 24TM11003 | Nguyen Chi Thanh");
-    lblStudentInfo1->setStyleSheet(
-        "color: #A3BE8C; "
-        "font-weight: bold; "
-        "font-size: 15px; "
-        "padding: 10px 20px; "
-        "background-color: rgba(67, 76, 94, 0.7); "
-        "border-radius: 15px; "
-        );
-    lblStudentInfo1->setAlignment(Qt::AlignCenter);
-    lblStudentInfo1->setMaximumWidth(350);
-    QLabel *lblStudentInfo2 = new QLabel(" 23TM11064 | Le Sinh Cong");
-    lblStudentInfo2->setStyleSheet(
-        "color: #A3BE8C; "
-        "font-weight: bold; "
-        "font-size: 14px; "
-        "padding: 10px 19px; "
-        "background-color: rgba(67, 76, 94, 0.7); "
-        "border-radius: 14px; "
-        );
-    lblStudentInfo2->setAlignment(Qt::AlignCenter);
-    lblStudentInfo2->setMaximumWidth(350);
-
     topBar->addWidget(btnSort);
     topBar->addStretch();
-    topBar->addWidget(lblStudentInfo);
-    topBar->addWidget(lblStudentInfo1);
-    topBar->addWidget(lblStudentInfo2);
 
     // Stats Cards
     QHBoxLayout *statsLayout = new QHBoxLayout();
@@ -647,47 +610,8 @@ void MainWindow::setupUserPage() {
         );
     connect(btnSort, &QPushButton::clicked, this, &MainWindow::onSortClicked);
 
-    QLabel *lblStudentInfo = new QLabel(" 24AD11004 | Nguyen Van Linh");
-    lblStudentInfo->setStyleSheet(
-        "color: #A3BE8C; "
-        "font-weight: bold; "
-        "font-size: 14px; "
-        "padding: 8px 16px; "
-        "background-color: rgba(67, 76, 94, 0.7); "
-        "border-radius: 12px; "
-        );
-    lblStudentInfo->setAlignment(Qt::AlignCenter);
-    lblStudentInfo->setMaximumWidth(280);
-
-    QLabel *lblStudentInfo1 = new QLabel(" 24TM11003 | Nguyen Chi Thanh");
-    lblStudentInfo1->setStyleSheet(
-        "color: #A3BE8C; "
-        "font-weight: bold; "
-        "font-size: 14px; "
-        "padding: 8px 16px; "
-        "background-color: rgba(67, 76, 94, 0.7); "
-        "border-radius: 12px; "
-        );
-    lblStudentInfo1->setAlignment(Qt::AlignCenter);
-    lblStudentInfo1->setMaximumWidth(280);
-
-    QLabel *lblStudentInfo2 = new QLabel(" 23TM11064 | Le Sinh Cong");
-    lblStudentInfo2->setStyleSheet(
-        "color: #A3BE8C; "
-        "font-weight: bold; "
-        "font-size: 14px; "
-        "padding: 8px 16px; "
-        "background-color: rgba(67, 76, 94, 0.7); "
-        "border-radius: 12px; "
-        );
-    lblStudentInfo2->setAlignment(Qt::AlignCenter);
-    lblStudentInfo2->setMaximumWidth(280);
-
     topBar->addWidget(btnSort);
     topBar->addStretch();
-    topBar->addWidget(lblStudentInfo);
-    topBar->addWidget(lblStudentInfo1);
-    topBar->addWidget(lblStudentInfo2);
     contentLayout->addLayout(topBar);
 
     // ============ TABLE ============
