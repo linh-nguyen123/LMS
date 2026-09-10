@@ -1,0 +1,6 @@
+Lap trinh C++|Nguyen Van A|2023|150000.00|978-01
+Doraemon|Fujiko F Fujio|1995|25000.00|978-02
+Mat Biec|Nguyen Nhat Anh|2019|110000.00|978-03
+Clean Code|Robert Martin|2008|500000.00|978-04
+arry Potter|J.k.Rowling|2025|100.00|12-3456789
+poor to rich|Paul|2025|100.00|12-0987654

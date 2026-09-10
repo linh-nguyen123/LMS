@@ -46,6 +46,7 @@ Built with strict adherence to **Object-Oriented Programming (OOP)** principles,
 | ⏱️ **Automated Penalty Engine** | Scheduled detection of overdue loans (`autoProcessOverdueBooks`), precise day calculation, automated fee billing, and settlement tracking. |
 | ⚡ **Search & Custom Sort** | Multi-attribute search (by ISBN, Title, Author, Year, Price range) powered by an in-memory **QuickSort** algorithm for instantaneous catalog reordering. |
 | 💾 **Data Persistence** | Flat-file storage engine maintaining synchronized persistence for book records, lending history, user accounts, and penalty journals. |
+| 🖥️ **Dual Interface Support** | Available in both a rich **Qt 6 Desktop GUI** and a lightweight, portable **Pure C++17 Console (CLI)** edition with zero external UI dependencies. |
 
 ---
 
@@ -151,6 +152,11 @@ The `Library::autoProcessOverdueBooks()` pipeline scans active borrow records ag
 
 ```
 LMS/
+├── cli/                            # Standalone C++ Console / CLI Edition
+│   ├── library_management_system.cpp  # Pure C++17 STL terminal application
+│   ├── InputBooks.txt              # CLI catalog dataset
+│   ├── Borrowed_Books_Record.txt   # CLI circulation records
+│   └── books.txt                   # Flat-file database storage
 ├── LibraryManagementSystem.pro     # Qt Project configuration
 ├── main.cpp                        # Entry point
 ├── mainwindow.cpp / .h / .ui       # Primary GUI interface and table widgets
@@ -173,25 +179,28 @@ LMS/
 
 ## 🚀 Getting Started & Build Instructions
 
-### Prerequisites
-* **Qt 5.15+** or **Qt 6.x** (Desktop MinGW 64-bit or MSVC).
-* **Qt Creator IDE**.
+### Option 1: Desktop GUI Edition (Qt 6)
+**Prerequisites:** Qt 5.15+ or Qt 6.x with Qt Creator IDE.
 
-### Setup Steps
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/linh-nguyen123/LMS.git
    cd LMS
    ```
-
-2. **Open the project in Qt Creator:**
+2. **Open & Build in Qt Creator:**
    * Launch Qt Creator and select **Open Project**.
-   * Navigate to the cloned directory and choose `LibraryManagementSystem.pro`.
+   * Select `LibraryManagementSystem.pro`.
+   * Choose `Desktop Qt 6.x (MinGW 64-bit)` as the build kit.
+   * Press `Ctrl + B` to build, then `Ctrl + R` to run.
 
-3. **Configure Kit & Build:**
-   * Select `Desktop Qt 6.x (MinGW 64-bit)` as the build kit.
-   * Press `Ctrl + B` to build the application.
-   * Press `Ctrl + R` to run.
+### Option 2: Standalone Console CLI Edition (Pure C++17)
+**Prerequisites:** Any standard C++17 compiler (GCC / Clang / MSVC). Zero external dependencies!
+
+```bash
+cd LMS/cli
+g++ -std=c++17 library_management_system.cpp -o LMS_CLI
+./LMS_CLI
+```
 
 ---
 
