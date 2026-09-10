@@ -10,6 +10,10 @@
 [![Algorithms](https://img.shields.io/badge/Algorithm-Custom%20QuickSort-purple?style=for-the-badge)](https://en.wikipedia.org/wiki/Quicksort)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
+<br/><br/>
+
+<img src="images/dashboard_preview.png" alt="Library Management System Dashboard Preview" width="820"/>
+
 <br/>
 
 </div>
@@ -47,6 +51,20 @@ Built with strict adherence to **Object-Oriented Programming (OOP)** principles,
 | ⚡ **Search & Custom Sort** | Multi-attribute search (by ISBN, Title, Author, Year, Price range) powered by an in-memory **QuickSort** algorithm for instantaneous catalog reordering. |
 | 💾 **Data Persistence** | Flat-file storage engine maintaining synchronized persistence for book records, lending history, user accounts, and penalty journals. |
 | 🖥️ **Dual Interface Support** | Available in both a rich **Qt 6 Desktop GUI** and a lightweight, portable **Pure C++17 Console (CLI)** edition with zero external UI dependencies. |
+
+### 🖼️ Graphical Interface & System Showcase
+
+| Live Substring Search & Book Covers | Admin Loan Monitoring & Overdue Alerts |
+| :---: | :---: |
+| <img src="images/search_feature.png" alt="Real-time Search Results" width="390"/> | <img src="images/admin_loans.png" alt="Admin Loan Monitoring Dialog" width="390"/> |
+| *Real-time substring search with responsive cover art* | *Centralized active loan tracker and overdue detector* |
+
+<div align="center">
+  <br/>
+  <img src="images/penalty_system.png" alt="Penalty Resolution Dashboard" width="700"/>
+  <br/>
+  <em>Automated overdue penalty calculation & fee settlement ledger</em>
+</div>
 
 ---
 
@@ -130,6 +148,18 @@ classDiagram
     Library "1" *-- "*" Penalty
 ```
 
+<details>
+<summary><b>🔍 View High-Resolution System Class & Use-Case Diagrams</b></summary>
+<br/>
+<div align="center">
+  <h4>System Class Hierarchy (Full Specification)</h4>
+  <img src="images/class_diagram.png" alt="Detailed UML Class Diagram" width="700"/>
+  <br/><br/>
+  <h4>Role-Based Use-Case Architecture</h4>
+  <img src="images/use_case_diagram.png" alt="System Use Case Diagram" width="650"/>
+</div>
+</details>
+
 ---
 
 ## 🛠️ Algorithmic & Technical Highlights
@@ -152,6 +182,7 @@ The `Library::autoProcessOverdueBooks()` pipeline scans active borrow records ag
 
 ```
 LMS/
+├── images/                         # Production UI screenshots & UML architecture diagrams
 ├── cli/                            # Standalone C++ Console / CLI Edition
 │   ├── library_management_system.cpp  # Pure C++17 STL terminal application
 │   ├── InputBooks.txt              # CLI catalog dataset
