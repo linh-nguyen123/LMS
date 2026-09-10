@@ -1,7 +1,22 @@
+# Qt Build Artifacts
 build/
 release/
 debug/
 *.o
+*.obj
 *.exe
-*.pro.user
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# Qt Creator User-Specific
+*.pro.user*
 .qmake.stash
+.qtcreator/
+
+# OS / Editor clutter
+.DS_Store
+Thumbs.db
+*.bak
