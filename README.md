@@ -23,7 +23,7 @@
 - [Algorithmic & Technical Highlights](#-algorithmic--technical-highlights)
 - [Repository Structure](#-repository-structure)
 - [Getting Started & Build Instructions](#-getting-started--build-instructions)
-- [Future Roadmap](#-future-roadmap)
+- [Author & Contributions](#-author--contributions)
 - [License](#-license)
 
 ---
@@ -195,11 +195,10 @@ LMS/
 
 ---
 
-## 🗺️ Future Roadmap
-- [ ] Migrate flat-file storage to an embedded **SQLite** relational database.
-- [ ] Barcode / QR Code scanning integration for rapid book circulation.
-- [ ] Email notification service for impending due dates.
-- [ ] Statistical reporting & graphical dashboard (most borrowed genres, active readers).
+## 👨‍💻 Author & Contributions
+- **Author**: Nguyen Linh (Lucas)
+- **GitHub**: [@linh-nguyen123](https://github.com/linh-nguyen123)
+- **Contributions**: Suggestions, issue reporting, and pull requests are warmly welcomed!
 
 ---
 
